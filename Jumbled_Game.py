@@ -12,23 +12,23 @@ from tkinter import messagebox
 
 answers = [
         "python",
-        "java",
+        "cplusplus",
         "swift",
-        "canada",
+        "pakistan",
         "india",
         "london",
-        "haryana",
+        "rajasthan",
         "army",
         ]
 
 words = [
         "npothy",
-        "vjaa",
+        "pplssuulc",
         "fitsw",
-        "nadaca",
+        "kaptanis",
         "daiin",
         "ldonno",
-        "naayhra",
+        "thanrajas",
         "yamr",
         ]
 
